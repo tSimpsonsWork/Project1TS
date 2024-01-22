@@ -9,6 +9,16 @@ Submitted by: **Trevor Simpson**
 
 Time spent: **14** hours spent in total
 
+
+<div>
+    <a href="https://www.loom.com/share/57ac04696bf441d791ed5c64a4f29347">
+    </a>
+    <a href="https://www.loom.com/share/57ac04696bf441d791ed5c64a4f29347">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/57ac04696bf441d791ed5c64a4f29347-with-play.gif">
+    </a>
+  </div>
+
+
 ## Required Features
 
 The following **required** functionality is completed:
